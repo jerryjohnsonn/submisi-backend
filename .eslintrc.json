@@ -12,6 +12,10 @@
   "rules": {
     "linebreak-style":"off",
     "eol-last":"off",
-    "no-console":"off"
+    "no-console":"off",
+    "no-trailing-spaces":"off",
+    "max-len":"off",
+    "no-unneeded-ternary":"off",
+    "object-curly-newline":"off"
   }
 }
